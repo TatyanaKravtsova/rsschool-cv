@@ -21,6 +21,7 @@ When I was at school, computer science was one of my favorite subjects, but it s
 * JavaScript (Basic)
 * Java (Basic)
 * Git
+* Figma
 
 ## Code Example
 ```
