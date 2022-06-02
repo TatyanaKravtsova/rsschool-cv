@@ -38,5 +38,5 @@ When I was at school, computer science was one of my favorite subjects, but it s
     + Saint-Petersburg State University of Industrial Technologies and Design (Graphic design and layout of web pages)
 ## English
 
-B1 (I'm still learning)
+A1 (I'm still learning)
 
